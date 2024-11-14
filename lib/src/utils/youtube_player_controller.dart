@@ -4,7 +4,8 @@
 
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_inappwebview/flutter_inappwebview.dart';
+import 'package:flutter_inappwebview_quill/flutter_inappwebview_quill.dart';
+
 import '../enums/playback_rate.dart';
 import '../enums/player_state.dart';
 import '../utils/youtube_meta_data.dart';
